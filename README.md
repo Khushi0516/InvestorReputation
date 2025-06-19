@@ -43,9 +43,6 @@ To incentivize trustworthy and impactful investing by quantifying investor reput
 ## 🖼 Transaction Screenshot
 
 ![Transaction Screenshot](screenshot.png)  
-*(Upload the screenshot of your transaction here)*
 
----
 
-## 📁 Folder Structure
 
