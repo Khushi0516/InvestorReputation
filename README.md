@@ -32,8 +32,7 @@ To incentivize trustworthy and impactful investing by quantifying investor reput
 ## 🛠 Deployment Info
 
 - **Network**: Core Testnet
-- **Deployed Address**: `0xYourContractAddressHere`  
-  *(Replace after Remix deployment)*
+- **Deployed Address**: `0x8764b720d6f53b1b163ec54e4674ba5e1a2a508f`  
 
 ## 🔗 Block Explorer
 
